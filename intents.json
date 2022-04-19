@@ -1,0 +1,14 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello","hey","hi","howdy","what's up"],
+    "responses": ["hello","hey","What can I do for you"]},
+  {"tag": "goodbye",
+    "patterns": ["catch you later","see you","bye","have a good day","see you later"],
+    "responses": ["sad to see you go","good bye sir","enjoy your day sir"]},
+  {"tag": "age",
+    "patterns": ["how old are you","what is your age","age?","what is your life span"],
+    "responses": ["My owner created me a while ago","Contact Mr.Ryan for that information","I have never thought of that"]},
+  {"tag": "name",
+    "patterns": ["What is your name","what is your designation","How do I refer to you","","what's your name"],
+    "responses": ["You can call me Neural","I am Neural","My name is Neural"]},
+]}
